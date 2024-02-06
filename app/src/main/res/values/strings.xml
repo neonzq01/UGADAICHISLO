@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SSSghoul</string>
+    <string name="try_to_guess" />
+    <string name="input_value">\n</string>
+</resources>
